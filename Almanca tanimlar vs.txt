@@ -1,0 +1,23 @@
+ ------"Boundary Value Analysis" (Grenzwertanalyse) ist eine Technik, die während der Software-Testphase verwendet wird. Diese Technik befasst sich mit Werten, die an den Grenzen einer Funktion oder eines Programms liegen. Oft werden diese Grenzwerte als die minimalen und maximalen Eingabewerte sowie als spezielle Randfälle betrachtet.
+
+Das Hauptziel dieser Methode ist es, potenzielle Fehler zu identifizieren oder unerwartete Szenarien aufzudecken. Besonders Situationen an den Rändern oder Grenzen sind wichtig, um das Verhalten einer Software zu verstehen und zu überprüfen, da die meisten Fehler an diesen Punkten auftreten können.
+
+Nehmen wir zum Beispiel ein Taschenrechnerprogramm. Die Anwendung von Boundary Value Analysis auf seine Funktionalität könnte das Testen der kleinsten und größten Eingabewerte, das Überprüfen von Sonderfällen wie Division durch Null und das Testen von Überläufen in Berechnungen umfassen. Auf diese Weise können Verhaltensweisen an den Grenzen der Software verstanden und Fehler erkannt werden.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Das JDK (Java Development Kit) ist eine Sammlung von Softwaretools und Bibliotheken, die von Entwicklern verwendet werden, um Java-Anwendungen zu erstellen, zu kompilieren, zu debuggen und zu testen. Es enthält alles, was Sie benötigen, um Java-Software zu entwickeln, einschließlich des Java-Compiler (javac), der Laufzeitumgebung (JRE - Java Runtime Environment) und anderer Hilfsprogramme und Bibliotheken.
+
+Das JDK besteht normalerweise aus den folgenden Hauptkomponenten:
+
+1-Java Compiler (javac): Dieses Tool wird verwendet, um Java-Quellcode in Bytecode zu übersetzen, der von der Java Virtual Machine (JVM) ausgeführt werden kann.
+
+2-Java Virtual Machine (JVM): Die JVM ist die Laufzeitumgebung, die Java-Anwendungen ausführt. Sie liest den Bytecode und führt ihn auf dem Zielsystem aus.
+
+3-Java-Bibliotheken: Das JDK enthält eine umfangreiche Sammlung von Java-Klassenbibliotheken und APIs (Application Programming Interfaces), die von Entwicklern genutzt werden können, um häufig benötigte Funktionen in Java-Anwendungen zu implementieren. Dies umfasst Klassen für Datenstrukturen, Ein- und Ausgabe, Netzwerkkommunikation, Grafik, Sicherheit und vieles mehr.
+
+4-Entwicklungswerkzeuge: Das JDK enthält verschiedene Entwicklungswerkzeuge, darunter Debugger, Profiler und Leistungsanalysatoren, um Entwicklern bei der Fehlersuche und Optimierung von Java-Anwendungen zu helfen.
+
+5-Dokumentation: Das JDK wird mit umfangreicher Dokumentation geliefert, die Entwicklern hilft, die Java-Sprache und -Plattform zu verstehen und effektiv damit zu arbeiten.
+
+Das JDK ist ein wesentliches Werkzeug für Java-Entwickler, da es die grundlegende Infrastruktur und die Werkzeuge bereitstellt, die zur Erstellung von Java-Anwendungen erforderlich sind. Es gibt verschiedene Versionen des JDK, die unterschiedliche Funktionen und Verbesserungen bieten, und Entwickler wählen normalerweise diejenige aus, die ihren Anforderungen am besten entspricht.
